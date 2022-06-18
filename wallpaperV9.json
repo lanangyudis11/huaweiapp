@@ -1,0 +1,1997 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "APPLOVIN-D",
+      "select_backup_ads":"",
+      "main_ads_banner": "6cf4813f2e294857",
+      "main_ads_intertitial":"73e16ab6808553d2",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "KPOP",
+      "image": "https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic4.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "AESTHETIC",
+      "image": "https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic3.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "ANIME",
+      "image": "https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic2.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+"id":1,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic1",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic1.jpg"
+    },
+{
+"id":2,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic2",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic2.jpg"
+    },
+{
+"id":3,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic3",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic3.jpg"
+    },
+{
+"id":4,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic4",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic4.jpg"
+    },
+{
+"id":5,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic5",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic5.jpg"
+    },
+{
+"id":6,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic6",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic6.jpg"
+    },
+{
+"id":7,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic7",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic7.jpg"
+    },
+{
+"id":8,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic8",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic8.jpg"
+    },
+{
+"id":9,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic9",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic9.jpg"
+    },
+{
+"id":10,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic10",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic10.jpg"
+    },
+{
+"id":11,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic11",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic11.jpg"
+    },
+{
+"id":12,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic12",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic12.jpg"
+    },
+{
+"id":13,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic13",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic13.jpg"
+    },
+{
+"id":14,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic14",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic14.jpg"
+    },
+{
+"id":15,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic15",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic15.jpg"
+    },
+{
+"id":16,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic16",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic16.jpg"
+    },
+{
+"id":17,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic17",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic17.jpg"
+    },
+{
+"id":18,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic18",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic18.jpg"
+    },
+{
+"id":19,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic19",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic19.jpg"
+    },
+{
+"id":20,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic20",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic20.jpg"
+    },
+{
+"id":21,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic21",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic21.jpg"
+    },
+{
+"id":22,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic22",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic22.jpg"
+    },
+{
+"id":23,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic23",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic23.jpg"
+    },
+{
+"id":24,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic24",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic24.jpg"
+    },
+{
+"id":25,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic25",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic25.jpg"
+    },
+{
+"id":26,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic26",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic26.jpg"
+    },
+{
+"id":27,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic27",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic27.jpg"
+    },
+{
+"id":28,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic28",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic28.jpg"
+    },
+{
+"id":29,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic29",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic29.jpg"
+    },
+{
+"id":30,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic30",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic30.jpg"
+    },
+{
+"id":31,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic31",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic31.jpg"
+    },
+{
+"id":32,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic32",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic32.jpg"
+    },
+{
+"id":33,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic33",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic33.jpg"
+    },
+{
+"id":34,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic34",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic34.jpg"
+    },
+{
+"id":35,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic35",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic35.jpg"
+    },
+{
+"id":36,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic36",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic36.jpg"
+    },
+{
+"id":37,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic37",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic37.jpg"
+    },
+{
+"id":38,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic38",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic38.jpg"
+    },
+{
+"id":39,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic39",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic39.jpg"
+    },
+{
+"id":40,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic40",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic40.jpg"
+    },
+{
+"id":41,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic41",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic41.jpg"
+    },
+{
+"id":42,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic42",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic42.jpg"
+    },
+{
+"id":43,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic43",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic43.jpg"
+    },
+{
+"id":44,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic44",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic44.jpg"
+    },
+{
+"id":45,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic45",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic45.jpg"
+    },
+{
+"id":46,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic46",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic46.jpg"
+    },
+{
+"id":47,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic47",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic47.jpg"
+    },
+{
+"id":48,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic48",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic48.jpg"
+    },
+{
+"id":49,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic49",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic49.jpg"
+    },
+{
+"id":50,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic50",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic50.jpg"
+    },
+{
+"id":51,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic51",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic51.jpg"
+    },
+{
+"id":52,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic52",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic52.jpg"
+    },
+{
+"id":53,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic53",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic53.jpg"
+    },
+{
+"id":54,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic54",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic54.jpg"
+    },
+{
+"id":55,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic55",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic55.jpg"
+    },
+{
+"id":56,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic56",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic56.jpg"
+    },
+{
+"id":57,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic57",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic57.jpg"
+    },
+{
+"id":58,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic58",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic58.jpg"
+    },
+{
+"id":59,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic59",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic59.jpg"
+    },
+{
+"id":60,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic60",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic60.jpg"
+    },
+{
+"id":61,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic61",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic61.jpg"
+    },
+{
+"id":62,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic62",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic62.jpg"
+    },
+{
+"id":63,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic63",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic63.jpg"
+    },
+{
+"id":64,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic64",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic64.jpg"
+    },
+{
+"id":65,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic65",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic65.jpg"
+    },
+{
+"id":66,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic66",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic66.jpg"
+    },
+{
+"id":67,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic67",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic67.jpg"
+    },
+{
+"id":68,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic68",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic68.jpg"
+    },
+{
+"id":69,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic69",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic69.jpg"
+    },
+{
+"id":70,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic70",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic70.jpg"
+    },
+{
+"id":71,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic71",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic71.jpg"
+    },
+{
+"id":72,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic72",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic72.jpg"
+    },
+{
+"id":73,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic73",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic73.jpg"
+    },
+{
+"id":74,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic74",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic74.jpg"
+    },
+{
+"id":75,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic75",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic75.jpg"
+    },
+{
+"id":76,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic76",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic76.jpg"
+    },
+{
+"id":77,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic77",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic77.jpg"
+    },
+{
+"id":78,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic78",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic78.jpg"
+    },
+{
+"id":79,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic79",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic79.jpg"
+    },
+{
+"id":80,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic80",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic80.jpg"
+    },
+{
+"id":81,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic81",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic81.jpg"
+    },
+{
+"id":82,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic82",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic82.jpg"
+    },
+{
+"id":83,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic83",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic83.jpg"
+    },
+{
+"id":84,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic84",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic84.jpg"
+    },
+{
+"id":85,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic85",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic85.jpg"
+    },
+{
+"id":86,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic86",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic86.jpg"
+    },
+{
+"id":87,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic87",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic87.jpg"
+    },
+{
+"id":88,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic88",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic88.jpg"
+    },
+{
+"id":89,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic89",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic89.jpg"
+    },
+{
+"id":90,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic90",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic90.jpg"
+    },
+{
+"id":91,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic91",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic91.jpg"
+    },
+{
+"id":92,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic92",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic92.jpg"
+    },
+{
+"id":93,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic93",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic93.jpg"
+    },
+{
+"id":94,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic94",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic94.jpg"
+    },
+{
+"id":95,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic95",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic95.jpg"
+    },
+{
+"id":96,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic96",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic96.jpg"
+    },
+{
+"id":97,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic97",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic97.jpg"
+    },
+{
+"id":98,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic98",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic98.jpg"
+    },
+{
+"id":99,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic99",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic99.jpg"
+    },
+{
+"id":100,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic100",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic100.jpg"
+    },
+{
+"id":101,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic101",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic101.jpg"
+    },
+{
+"id":102,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic102",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic102.jpg"
+    },
+{
+"id":103,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic103",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic103.jpg"
+    },
+{
+"id":104,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic104",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic104.jpg"
+    },
+{
+"id":105,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic105",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic105.jpg"
+    },
+{
+"id":106,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic106",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic106.jpg"
+    },
+{
+"id":107,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic107",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic107.jpg"
+    },
+{
+"id":108,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic108",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic108.jpg"
+    },
+{
+"id":109,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic109",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic109.jpg"
+    },
+{
+"id":110,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic110",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic110.jpg"
+    },
+{
+"id":111,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic111",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic111.jpg"
+    },
+{
+"id":112,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic112",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic112.jpg"
+    },
+{
+"id":113,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic113",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic113.jpg"
+    },
+{
+"id":114,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic114",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic114.jpg"
+    },
+{
+"id":115,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic115",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic115.jpg"
+    },
+{
+"id":116,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic116",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic116.jpg"
+    },
+{
+"id":117,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic117",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic117.jpg"
+    },
+{
+"id":118,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic118",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic118.jpg"
+    },
+{
+"id":119,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic119",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic119.jpg"
+    },
+{
+"id":120,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic120",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic120.jpg"
+    },
+{
+"id":121,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic121",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic121.jpg"
+    },
+{
+"id":122,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic122",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic122.jpg"
+    },
+{
+"id":123,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic123",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic123.jpg"
+    },
+{
+"id":124,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic124",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic124.jpg"
+    },
+{
+"id":125,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic125",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic125.jpg"
+    },
+{
+"id":126,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic126",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic126.jpg"
+    },
+{
+"id":127,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic127",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic127.jpg"
+    },
+{
+"id":128,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic128",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic128.jpg"
+    },
+{
+"id":129,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic129",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic129.jpg"
+    },
+{
+"id":130,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic130",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic130.jpg"
+    },
+{
+"id":131,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic131",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic131.jpg"
+    },
+{
+"id":132,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic132",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic132.jpg"
+    },
+{
+"id":133,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic133",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic133.jpg"
+    },
+{
+"id":134,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic134",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic134.jpg"
+    },
+{
+"id":135,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic135",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic135.jpg"
+    },
+{
+"id":136,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic136",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic136.jpg"
+    },
+{
+"id":137,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic137",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic137.jpg"
+    },
+{
+"id":138,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic138",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic138.jpg"
+    },
+{
+"id":139,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic139",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic139.jpg"
+    },
+{
+"id":140,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic140",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic140.jpg"
+    },
+{
+"id":141,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic141",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic141.jpg"
+    },
+{
+"id":142,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic142",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic142.jpg"
+    },
+{
+"id":143,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic143",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic143.jpg"
+    },
+{
+"id":144,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic144",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic144.jpg"
+    },
+{
+"id":145,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic145",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic145.jpg"
+    },
+{
+"id":146,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic146",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic146.jpg"
+    },
+{
+"id":147,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic147",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic147.jpg"
+    },
+{
+"id":148,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic148",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic148.jpg"
+    },
+{
+"id":149,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic149",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic149.jpg"
+    },
+{
+"id":150,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic150",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic150.jpg"
+    },
+{
+"id":151,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic151",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic151.jpg"
+    },
+{
+"id":152,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic152",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic152.jpg"
+    },
+{
+"id":153,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic153",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic153.jpg"
+    },
+{
+"id":154,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic154",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic154.jpg"
+    },
+{
+"id":155,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic155",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic155.jpg"
+    },
+{
+"id":156,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic156",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic156.jpg"
+    },
+{
+"id":157,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic157",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic157.jpg"
+    },
+{
+"id":158,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic158",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic158.jpg"
+    },
+{
+"id":159,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic159",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic159.jpg"
+    },
+{
+"id":160,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic160",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic160.jpg"
+    },
+{
+"id":161,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic161",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic161.jpg"
+    },
+{
+"id":162,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic162",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic162.jpg"
+    },
+{
+"id":163,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic163",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic163.jpg"
+    },
+{
+"id":164,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic164",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic164.jpg"
+    },
+{
+"id":165,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic165",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic165.jpg"
+    },
+{
+"id":166,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic166",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic166.jpg"
+    },
+{
+"id":167,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic167",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic167.jpg"
+    },
+{
+"id":168,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic168",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic168.jpg"
+    },
+{
+"id":169,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic169",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic169.jpg"
+    },
+{
+"id":170,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic170",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic170.jpg"
+    },
+{
+"id":171,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic171",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic171.jpg"
+    },
+{
+"id":172,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic172",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic172.jpg"
+    },
+{
+"id":173,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic173",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic173.jpg"
+    },
+{
+"id":174,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic174",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic174.jpg"
+    },
+{
+"id":175,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic175",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic175.jpg"
+    },
+{
+"id":176,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic176",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic176.jpg"
+    },
+{
+"id":177,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic177",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic177.jpg"
+    },
+{
+"id":178,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic178",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic178.jpg"
+    },
+{
+"id":179,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic179",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic179.jpg"
+    },
+{
+"id":180,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic180",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic180.jpg"
+    },
+{
+"id":181,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic181",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic181.jpg"
+    },
+{
+"id":182,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic182",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic182.jpg"
+    },
+{
+"id":183,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic183",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic183.jpg"
+    },
+{
+"id":184,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic184",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic184.jpg"
+    },
+{
+"id":185,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic185",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic185.jpg"
+    },
+{
+"id":186,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic186",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic186.jpg"
+    },
+{
+"id":187,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic187",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic187.jpg"
+    },
+{
+"id":188,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic188",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic188.jpg"
+    },
+{
+"id":189,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic189",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic189.jpg"
+    },
+{
+"id":190,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic190",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic190.jpg"
+    },
+{
+"id":191,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic191",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic191.jpg"
+    },
+{
+"id":192,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic192",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic192.jpg"
+    },
+{
+"id":193,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic193",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic193.jpg"
+    },
+{
+"id":194,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic194",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic194.jpg"
+    },
+{
+"id":195,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic195",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic195.jpg"
+    },
+{
+"id":196,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic196",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic196.jpg"
+    },
+{
+"id":197,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic197",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic197.jpg"
+    },
+{
+"id":198,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic198",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic198.jpg"
+    },
+{
+"id":199,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic199",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic199.jpg"
+    },
+{
+"id":200,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic200",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic200.jpg"
+    },
+{
+"id":201,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic201",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic201.jpg"
+    },
+{
+"id":202,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic202",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic202.jpg"
+    },
+{
+"id":203,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic203",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic203.jpg"
+    },
+{
+"id":204,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic204",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic204.jpg"
+    },
+{
+"id":205,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic205",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic205.jpg"
+    },
+{
+"id":206,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic206",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic206.jpg"
+    },
+{
+"id":207,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic207",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic207.jpg"
+    },
+{
+"id":208,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic208",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic208.jpg"
+    },
+{
+"id":209,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic209",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic209.jpg"
+    },
+{
+"id":210,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic210",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic210.jpg"
+    },
+{
+"id":211,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic211",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic211.jpg"
+    },
+{
+"id":212,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic212",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic212.jpg"
+    },
+{
+"id":213,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic213",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic213.jpg"
+    },
+{
+"id":214,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic214",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic214.jpg"
+    },
+{
+"id":215,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic215",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic215.jpg"
+    },
+{
+"id":216,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic216",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic216.jpg"
+    },
+{
+"id":217,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic217",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic217.jpg"
+    },
+{
+"id":218,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic218",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic218.jpg"
+    },
+{
+"id":219,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic219",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic219.jpg"
+    },
+{
+"id":220,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic220",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic220.jpg"
+    },
+{
+"id":221,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic221",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic221.jpg"
+    },
+{
+"id":222,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic222",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic222.jpg"
+    },
+{
+"id":223,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic223",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic223.jpg"
+    },
+{
+"id":224,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic224",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic224.jpg"
+    },
+{
+"id":225,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic225",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic225.jpg"
+    },
+{
+"id":226,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic226",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic226.jpg"
+    },
+{
+"id":227,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic227",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic227.jpg"
+    },
+{
+"id":228,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic228",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic228.jpg"
+    },
+{
+"id":229,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic229",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic229.jpg"
+    },
+{
+"id":230,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic230",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic230.jpg"
+    },
+{
+"id":231,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic231",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic231.jpg"
+    },
+{
+"id":232,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic232",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic232.jpg"
+    },
+{
+"id":233,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic233",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic233.jpg"
+    },
+{
+"id":234,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic234",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic234.jpg"
+    },
+{
+"id":235,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic235",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic235.jpg"
+    },
+{
+"id":236,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic236",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic236.jpg"
+    },
+{
+"id":237,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic237",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic237.jpg"
+    },
+{
+"id":238,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic238",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic238.jpg"
+    },
+{
+"id":239,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic239",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic239.jpg"
+    },
+{
+"id":240,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic240",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic240.jpg"
+    },
+{
+"id":241,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic241",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic241.jpg"
+    },
+{
+"id":242,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic242",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic242.jpg"
+    },
+{
+"id":243,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic243",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic243.jpg"
+    },
+{
+"id":244,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic244",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic244.jpg"
+    },
+{
+"id":245,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic245",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic245.jpg"
+    },
+{
+"id":246,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic246",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic246.jpg"
+    },
+{
+"id":247,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic247",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic247.jpg"
+    },
+{
+"id":248,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic248",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic248.jpg"
+    },
+{
+"id":249,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic249",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic249.jpg"
+    },
+{
+"id":250,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic250",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic250.jpg"
+    },
+{
+"id":251,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic251",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic251.jpg"
+    },
+{
+"id":252,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic252",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic252.jpg"
+    },
+{
+"id":253,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic253",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic253.jpg"
+    },
+{
+"id":254,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic254",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic254.jpg"
+    },
+{
+"id":255,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic255",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic255.jpg"
+    },
+{
+"id":256,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic256",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic256.jpg"
+    },
+{
+"id":257,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic257",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic257.jpg"
+    },
+{
+"id":258,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic258",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic258.jpg"
+    },
+{
+"id":259,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic259",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic259.jpg"
+    },
+{
+"id":260,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic260",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic260.jpg"
+    },
+{
+"id":261,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic261",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic261.jpg"
+    },
+{
+"id":262,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic262",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic262.jpg"
+    },
+{
+"id":263,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic263",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic263.jpg"
+    },
+{
+"id":264,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic264",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic264.jpg"
+    },
+{
+"id":265,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic265",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic265.jpg"
+    },
+{
+"id":266,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic266",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic266.jpg"
+    },
+{
+"id":267,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic267",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic267.jpg"
+    },
+{
+"id":268,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic268",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic268.jpg"
+    },
+{
+"id":269,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic269",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic269.jpg"
+    },
+{
+"id":270,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic270",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic270.jpg"
+    },
+{
+"id":271,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic271",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic271.jpg"
+    },
+{
+"id":272,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic272",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic272.jpg"
+    },
+{
+"id":273,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic273",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic273.jpg"
+    },
+{
+"id":274,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic274",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic274.jpg"
+    },
+{
+"id":275,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic275",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic275.jpg"
+    },
+{
+"id":276,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic276",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic276.jpg"
+    },
+{
+"id":277,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic277",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic277.jpg"
+    },
+{
+"id":278,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic278",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic278.jpg"
+    },
+{
+"id":279,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic279",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic279.jpg"
+    },
+{
+"id":280,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic280",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic280.jpg"
+    },
+{
+"id":281,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic281",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic281.jpg"
+    },
+{
+"id":282,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic282",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic282.jpg"
+    },
+{
+"id":283,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic283",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic283.jpg"
+    },
+{
+"id":284,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic284",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic284.jpg"
+    },
+{
+"id":285,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic285",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic285.jpg"
+    },
+{
+"id":286,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic286",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic286.jpg"
+    },
+{
+"id":287,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic287",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic287.jpg"
+    },
+{
+"id":288,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic288",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic288.jpg"
+    },
+{
+"id":289,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic289",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic289.jpg"
+    },
+{
+"id":290,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic290",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic290.jpg"
+    },
+{
+"id":291,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic291",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic291.jpg"
+    },
+{
+"id":292,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic292",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic292.jpg"
+    },
+{
+"id":293,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic293",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic293.jpg"
+    },
+{
+"id":294,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic294",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic294.jpg"
+    },
+{
+"id":295,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic295",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic295.jpg"
+    },
+{
+"id":296,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic296",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic296.jpg"
+    },
+{
+"id":297,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic297",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic297.jpg"
+    },
+{
+"id":298,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic298",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic298.jpg"
+    },
+{
+"id":299,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic299",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic299.jpg"
+    },
+{
+"id":300,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic300",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic300.jpg"
+    },
+{
+"id":301,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic301",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic301.jpg"
+    },
+{
+"id":302,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic302",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic302.jpg"
+    },
+{
+"id":303,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic303",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic303.jpg"
+    },
+{
+"id":304,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic304",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic304.jpg"
+    },
+{
+"id":305,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic305",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic305.jpg"
+    },
+{
+"id":306,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic306",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic306.jpg"
+    },
+{
+"id":307,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic307",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic307.jpg"
+    },
+{
+"id":308,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic308",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic308.jpg"
+    },
+{
+"id":309,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic309",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic309.jpg"
+    },
+{
+"id":310,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic310",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic310.jpg"
+    },
+{
+"id":311,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic311",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic311.jpg"
+    },
+{
+"id":312,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic312",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic312.jpg"
+    },
+{
+"id":313,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic313",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic313.jpg"
+    },
+{
+"id":314,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic314",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic314.jpg"
+    },
+{
+"id":315,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic315",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic315.jpg"
+    },
+{
+"id":316,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic316",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic316.jpg"
+    },
+{
+"id":317,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic317",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic317.jpg"
+    },
+{
+"id":318,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic318",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic318.jpg"
+    },
+{
+"id":319,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic319",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic319.jpg"
+    },
+{
+"id":320,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic320",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic320.jpg"
+    },
+{
+"id":321,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic321",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic321.jpg"
+    },
+{
+"id":322,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic322",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic322.jpg"
+    },
+{
+"id":323,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic323",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic323.jpg"
+    },
+{
+"id":324,
+      "name_category": "AESTHETIC",
+"title":"Aesthetic324",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic324.jpg"
+    }
+
+
+  ]
+}
