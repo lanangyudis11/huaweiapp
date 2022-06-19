@@ -7,7 +7,7 @@
       "main_ads_intertitial":"73e16ab6808553d2",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
-      "interval_intertitial": 1,
+      "interval_intertitial": 5,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -1550,448 +1550,2450 @@
 {
 "id":251,
       "name_category": "AESTHETIC",
-"title":"Aesthetic251",
+"title":"Kpop251",
 "image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic251.jpg"
     },
 {
 "id":252,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic252",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic252.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop252",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop252.jpg"
+    }
+,
 {
 "id":253,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic253",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic253.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop253",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop253.jpg"
+    }
+,
 {
 "id":254,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic254",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic254.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop254",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop254.jpg"
+    }
+,
 {
 "id":255,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic255",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic255.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop255",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop255.jpg"
+    }
+,
 {
 "id":256,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic256",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic256.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop256",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop256.jpg"
+    }
+,
 {
 "id":257,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic257",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic257.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop257",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop257.jpg"
+    }
+,
 {
 "id":258,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic258",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic258.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop258",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop258.jpg"
+    }
+,
 {
 "id":259,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic259",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic259.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop259",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop259.jpg"
+    }
+,
 {
 "id":260,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic260",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic260.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop260",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop260.jpg"
+    }
+,
 {
 "id":261,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic261",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic261.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop261",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop261.jpg"
+    }
+,
 {
 "id":262,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic262",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic262.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop262",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop262.jpg"
+    }
+,
 {
 "id":263,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic263",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic263.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop263",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop263.jpg"
+    }
+,
 {
 "id":264,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic264",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic264.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop264",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop264.jpg"
+    }
+,
 {
 "id":265,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic265",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic265.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop265",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop265.jpg"
+    }
+,
 {
 "id":266,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic266",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic266.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop266",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop266.jpg"
+    }
+,
 {
 "id":267,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic267",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic267.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop267",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop267.jpg"
+    }
+,
 {
 "id":268,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic268",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic268.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop268",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop268.jpg"
+    }
+,
 {
 "id":269,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic269",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic269.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop269",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop269.jpg"
+    }
+,
 {
 "id":270,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic270",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic270.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop270",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop270.jpg"
+    }
+,
 {
 "id":271,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic271",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic271.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop271",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop271.jpg"
+    }
+,
 {
 "id":272,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic272",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic272.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop272",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop272.jpg"
+    }
+,
 {
 "id":273,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic273",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic273.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop273",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop273.jpg"
+    }
+,
 {
 "id":274,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic274",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic274.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop274",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop274.jpg"
+    }
+,
 {
 "id":275,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic275",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic275.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop275",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop275.jpg"
+    }
+,
 {
 "id":276,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic276",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic276.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop276",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop276.jpg"
+    }
+,
 {
 "id":277,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic277",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic277.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop277",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop277.jpg"
+    }
+,
 {
 "id":278,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic278",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic278.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop278",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop278.jpg"
+    }
+,
 {
 "id":279,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic279",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic279.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop279",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop279.jpg"
+    }
+,
 {
 "id":280,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic280",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic280.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop280",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop280.jpg"
+    }
+,
 {
 "id":281,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic281",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic281.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop281",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop281.jpg"
+    }
+,
 {
 "id":282,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic282",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic282.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop282",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop282.jpg"
+    }
+,
 {
 "id":283,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic283",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic283.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop283",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop283.jpg"
+    }
+,
 {
 "id":284,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic284",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic284.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop284",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop284.jpg"
+    }
+,
 {
 "id":285,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic285",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic285.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop285",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop285.jpg"
+    }
+,
 {
 "id":286,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic286",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic286.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop286",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop286.jpg"
+    }
+,
 {
 "id":287,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic287",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic287.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop287",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop287.jpg"
+    }
+,
 {
 "id":288,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic288",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic288.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop288",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop288.jpg"
+    }
+,
 {
 "id":289,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic289",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic289.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop289",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop289.jpg"
+    }
+,
 {
 "id":290,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic290",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic290.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop290",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop290.jpg"
+    }
+,
 {
 "id":291,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic291",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic291.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop291",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop291.jpg"
+    }
+,
 {
 "id":292,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic292",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic292.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop292",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop292.jpg"
+    }
+,
 {
 "id":293,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic293",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic293.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop293",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop293.jpg"
+    }
+,
 {
 "id":294,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic294",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic294.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop294",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop294.jpg"
+    }
+,
 {
 "id":295,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic295",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic295.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop295",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop295.jpg"
+    }
+,
 {
 "id":296,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic296",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic296.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop296",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop296.jpg"
+    }
+,
 {
 "id":297,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic297",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic297.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop297",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop297.jpg"
+    }
+,
 {
 "id":298,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic298",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic298.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop298",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop298.jpg"
+    }
+,
 {
 "id":299,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic299",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic299.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop299",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop299.jpg"
+    }
+,
 {
 "id":300,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic300",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic300.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop300",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop300.jpg"
+    }
+,
 {
 "id":301,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic301",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic301.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop301",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop301.jpg"
+    }
+,
 {
 "id":302,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic302",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic302.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop302",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop302.jpg"
+    }
+,
 {
 "id":303,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic303",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic303.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop303",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop303.jpg"
+    }
+,
 {
 "id":304,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic304",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic304.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop304",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop304.jpg"
+    }
+,
 {
 "id":305,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic305",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic305.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop305",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop305.jpg"
+    }
+,
 {
 "id":306,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic306",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic306.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop306",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop306.jpg"
+    }
+,
 {
 "id":307,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic307",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic307.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop307",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop307.jpg"
+    }
+,
 {
 "id":308,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic308",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic308.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop308",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop308.jpg"
+    }
+,
 {
 "id":309,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic309",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic309.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop309",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop309.jpg"
+    }
+,
 {
 "id":310,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic310",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic310.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop310",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop310.jpg"
+    }
+,
 {
 "id":311,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic311",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic311.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop311",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop311.jpg"
+    }
+,
 {
 "id":312,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic312",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic312.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop312",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop312.jpg"
+    }
+,
 {
 "id":313,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic313",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic313.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop313",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop313.jpg"
+    }
+,
 {
 "id":314,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic314",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic314.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop314",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop314.jpg"
+    }
+,
 {
 "id":315,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic315",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic315.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop315",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop315.jpg"
+    }
+,
 {
 "id":316,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic316",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic316.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop316",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop316.jpg"
+    }
+,
 {
 "id":317,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic317",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic317.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop317",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop317.jpg"
+    }
+,
 {
 "id":318,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic318",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic318.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop318",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop318.jpg"
+    }
+,
 {
 "id":319,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic319",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic319.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop319",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop319.jpg"
+    }
+,
 {
 "id":320,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic320",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic320.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop320",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop320.jpg"
+    }
+,
 {
 "id":321,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic321",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic321.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop321",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop321.jpg"
+    }
+,
 {
 "id":322,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic322",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic322.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop322",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop322.jpg"
+    }
+,
 {
 "id":323,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic323",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic323.jpg"
-    },
+      "name_category": "KPOP",
+"title":"Kpop323",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop323.jpg"
+    }
+,
 {
 "id":324,
-      "name_category": "AESTHETIC",
-"title":"Aesthetic324",
-"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Aesthetic324.jpg"
+      "name_category": "KPOP",
+"title":"Kpop324",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop324.jpg"
     }
-
+,
+{
+"id":325,
+      "name_category": "KPOP",
+"title":"Kpop325",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop325.jpg"
+    }
+,
+{
+"id":326,
+      "name_category": "KPOP",
+"title":"Kpop326",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop326.jpg"
+    }
+,
+{
+"id":327,
+      "name_category": "KPOP",
+"title":"Kpop327",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop327.jpg"
+    }
+,
+{
+"id":328,
+      "name_category": "KPOP",
+"title":"Kpop328",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop328.jpg"
+    }
+,
+{
+"id":329,
+      "name_category": "KPOP",
+"title":"Kpop329",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop329.jpg"
+    }
+,
+{
+"id":330,
+      "name_category": "KPOP",
+"title":"Kpop330",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop330.jpg"
+    }
+,
+{
+"id":331,
+      "name_category": "KPOP",
+"title":"Kpop331",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop331.jpg"
+    }
+,
+{
+"id":332,
+      "name_category": "KPOP",
+"title":"Kpop332",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop332.jpg"
+    }
+,
+{
+"id":333,
+      "name_category": "KPOP",
+"title":"Kpop333",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop333.jpg"
+    }
+,
+{
+"id":334,
+      "name_category": "KPOP",
+"title":"Kpop334",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop334.jpg"
+    }
+,
+{
+"id":335,
+      "name_category": "KPOP",
+"title":"Kpop335",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop335.jpg"
+    }
+,
+{
+"id":336,
+      "name_category": "KPOP",
+"title":"Kpop336",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop336.jpg"
+    }
+,
+{
+"id":337,
+      "name_category": "KPOP",
+"title":"Kpop337",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop337.jpg"
+    }
+,
+{
+"id":338,
+      "name_category": "KPOP",
+"title":"Kpop338",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop338.jpg"
+    }
+,
+{
+"id":339,
+      "name_category": "KPOP",
+"title":"Kpop339",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop339.jpg"
+    }
+,
+{
+"id":340,
+      "name_category": "KPOP",
+"title":"Kpop340",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop340.jpg"
+    }
+,
+{
+"id":341,
+      "name_category": "KPOP",
+"title":"Kpop341",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop341.jpg"
+    }
+,
+{
+"id":342,
+      "name_category": "KPOP",
+"title":"Kpop342",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop342.jpg"
+    }
+,
+{
+"id":343,
+      "name_category": "KPOP",
+"title":"Kpop343",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop343.jpg"
+    }
+,
+{
+"id":344,
+      "name_category": "KPOP",
+"title":"Kpop344",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop344.jpg"
+    }
+,
+{
+"id":345,
+      "name_category": "KPOP",
+"title":"Kpop345",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop345.jpg"
+    }
+,
+{
+"id":346,
+      "name_category": "KPOP",
+"title":"Kpop346",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop346.jpg"
+    }
+,
+{
+"id":347,
+      "name_category": "KPOP",
+"title":"Kpop347",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop347.jpg"
+    }
+,
+{
+"id":348,
+      "name_category": "KPOP",
+"title":"Kpop348",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop348.jpg"
+    }
+,
+{
+"id":349,
+      "name_category": "KPOP",
+"title":"Kpop349",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop349.jpg"
+    }
+,
+{
+"id":350,
+      "name_category": "KPOP",
+"title":"Kpop350",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop350.jpg"
+    }
+,
+{
+"id":351,
+      "name_category": "KPOP",
+"title":"Kpop351",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop351.jpg"
+    }
+,
+{
+"id":352,
+      "name_category": "KPOP",
+"title":"Kpop352",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop352.jpg"
+    }
+,
+{
+"id":353,
+      "name_category": "KPOP",
+"title":"Kpop353",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop353.jpg"
+    }
+,
+{
+"id":354,
+      "name_category": "KPOP",
+"title":"Kpop354",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop354.jpg"
+    }
+,
+{
+"id":355,
+      "name_category": "KPOP",
+"title":"Kpop355",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop355.jpg"
+    }
+,
+{
+"id":356,
+      "name_category": "KPOP",
+"title":"Kpop356",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop356.jpg"
+    }
+,
+{
+"id":357,
+      "name_category": "KPOP",
+"title":"Kpop357",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop357.jpg"
+    }
+,
+{
+"id":358,
+      "name_category": "KPOP",
+"title":"Kpop358",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop358.jpg"
+    }
+,
+{
+"id":359,
+      "name_category": "KPOP",
+"title":"Kpop359",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop359.jpg"
+    }
+,
+{
+"id":360,
+      "name_category": "KPOP",
+"title":"Kpop360",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop360.jpg"
+    }
+,
+{
+"id":361,
+      "name_category": "KPOP",
+"title":"Kpop361",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop361.jpg"
+    }
+,
+{
+"id":362,
+      "name_category": "KPOP",
+"title":"Kpop362",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop362.jpg"
+    }
+,
+{
+"id":363,
+      "name_category": "KPOP",
+"title":"Kpop363",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop363.jpg"
+    }
+,
+{
+"id":364,
+      "name_category": "KPOP",
+"title":"Kpop364",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop364.jpg"
+    }
+,
+{
+"id":365,
+      "name_category": "KPOP",
+"title":"Kpop365",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop365.jpg"
+    }
+,
+{
+"id":366,
+      "name_category": "KPOP",
+"title":"Kpop366",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop366.jpg"
+    }
+,
+{
+"id":367,
+      "name_category": "KPOP",
+"title":"Kpop367",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop367.jpg"
+    }
+,
+{
+"id":368,
+      "name_category": "KPOP",
+"title":"Kpop368",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop368.jpg"
+    }
+,
+{
+"id":369,
+      "name_category": "KPOP",
+"title":"Kpop369",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop369.jpg"
+    }
+,
+{
+"id":370,
+      "name_category": "KPOP",
+"title":"Kpop370",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop370.jpg"
+    }
+,
+{
+"id":371,
+      "name_category": "KPOP",
+"title":"Kpop371",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop371.jpg"
+    }
+,
+{
+"id":372,
+      "name_category": "KPOP",
+"title":"Kpop372",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop372.jpg"
+    }
+,
+{
+"id":373,
+      "name_category": "KPOP",
+"title":"Kpop373",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop373.jpg"
+    }
+,
+{
+"id":374,
+      "name_category": "KPOP",
+"title":"Kpop374",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop374.jpg"
+    }
+,
+{
+"id":375,
+      "name_category": "KPOP",
+"title":"Kpop375",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop375.jpg"
+    }
+,
+{
+"id":376,
+      "name_category": "KPOP",
+"title":"Kpop376",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop376.jpg"
+    }
+,
+{
+"id":377,
+      "name_category": "KPOP",
+"title":"Kpop377",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop377.jpg"
+    }
+,
+{
+"id":378,
+      "name_category": "KPOP",
+"title":"Kpop378",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop378.jpg"
+    }
+,
+{
+"id":379,
+      "name_category": "KPOP",
+"title":"Kpop379",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop379.jpg"
+    }
+,
+{
+"id":380,
+      "name_category": "KPOP",
+"title":"Kpop380",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop380.jpg"
+    }
+,
+{
+"id":381,
+      "name_category": "KPOP",
+"title":"Kpop381",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop381.jpg"
+    }
+,
+{
+"id":382,
+      "name_category": "KPOP",
+"title":"Kpop382",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop382.jpg"
+    }
+,
+{
+"id":383,
+      "name_category": "KPOP",
+"title":"Kpop383",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop383.jpg"
+    }
+,
+{
+"id":384,
+      "name_category": "KPOP",
+"title":"Kpop384",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop384.jpg"
+    }
+,
+{
+"id":385,
+      "name_category": "KPOP",
+"title":"Kpop385",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop385.jpg"
+    }
+,
+{
+"id":386,
+      "name_category": "KPOP",
+"title":"Kpop386",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop386.jpg"
+    }
+,
+{
+"id":387,
+      "name_category": "KPOP",
+"title":"Kpop387",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop387.jpg"
+    }
+,
+{
+"id":388,
+      "name_category": "KPOP",
+"title":"Kpop388",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop388.jpg"
+    }
+,
+{
+"id":389,
+      "name_category": "KPOP",
+"title":"Kpop389",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop389.jpg"
+    }
+,
+{
+"id":390,
+      "name_category": "KPOP",
+"title":"Kpop390",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop390.jpg"
+    }
+,
+{
+"id":391,
+      "name_category": "KPOP",
+"title":"Kpop391",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop391.jpg"
+    }
+,
+{
+"id":392,
+      "name_category": "KPOP",
+"title":"Kpop392",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop392.jpg"
+    }
+,
+{
+"id":393,
+      "name_category": "KPOP",
+"title":"Kpop393",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop393.jpg"
+    }
+,
+{
+"id":394,
+      "name_category": "KPOP",
+"title":"Kpop394",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop394.jpg"
+    }
+,
+{
+"id":395,
+      "name_category": "KPOP",
+"title":"Kpop395",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop395.jpg"
+    }
+,
+{
+"id":396,
+      "name_category": "KPOP",
+"title":"Kpop396",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop396.jpg"
+    }
+,
+{
+"id":397,
+      "name_category": "KPOP",
+"title":"Kpop397",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop397.jpg"
+    }
+,
+{
+"id":398,
+      "name_category": "KPOP",
+"title":"Kpop398",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop398.jpg"
+    }
+,
+{
+"id":399,
+      "name_category": "KPOP",
+"title":"Kpop399",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop399.jpg"
+    }
+,
+{
+"id":400,
+      "name_category": "KPOP",
+"title":"Kpop400",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Kpop400.jpg"
+    },
+{
+"id":401,
+      "name_category": "ANIME",
+"title":"Anime401",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime401.jpg"
+    }
+,
+{
+"id":402,
+      "name_category": "ANIME",
+"title":"Anime402",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime402.jpg"
+    }
+,
+{
+"id":403,
+      "name_category": "ANIME",
+"title":"Anime403",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime403.jpg"
+    }
+,
+{
+"id":404,
+      "name_category": "ANIME",
+"title":"Anime404",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime404.jpg"
+    }
+,
+{
+"id":405,
+      "name_category": "ANIME",
+"title":"Anime405",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime405.jpg"
+    }
+,
+{
+"id":406,
+      "name_category": "ANIME",
+"title":"Anime406",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime406.jpg"
+    }
+,
+{
+"id":407,
+      "name_category": "ANIME",
+"title":"Anime407",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime407.jpg"
+    }
+,
+{
+"id":408,
+      "name_category": "ANIME",
+"title":"Anime408",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime408.jpg"
+    }
+,
+{
+"id":409,
+      "name_category": "ANIME",
+"title":"Anime409",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime409.jpg"
+    }
+,
+{
+"id":410,
+      "name_category": "ANIME",
+"title":"Anime410",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime410.jpg"
+    }
+,
+{
+"id":411,
+      "name_category": "ANIME",
+"title":"Anime411",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime411.jpg"
+    }
+,
+{
+"id":412,
+      "name_category": "ANIME",
+"title":"Anime412",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime412.jpg"
+    }
+,
+{
+"id":413,
+      "name_category": "ANIME",
+"title":"Anime413",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime413.jpg"
+    }
+,
+{
+"id":414,
+      "name_category": "ANIME",
+"title":"Anime414",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime414.jpg"
+    }
+,
+{
+"id":415,
+      "name_category": "ANIME",
+"title":"Anime415",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime415.jpg"
+    }
+,
+{
+"id":416,
+      "name_category": "ANIME",
+"title":"Anime416",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime416.jpg"
+    }
+,
+{
+"id":417,
+      "name_category": "ANIME",
+"title":"Anime417",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime417.jpg"
+    }
+,
+{
+"id":418,
+      "name_category": "ANIME",
+"title":"Anime418",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime418.jpg"
+    }
+,
+{
+"id":419,
+      "name_category": "ANIME",
+"title":"Anime419",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime419.jpg"
+    }
+,
+{
+"id":420,
+      "name_category": "ANIME",
+"title":"Anime420",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime420.jpg"
+    }
+,
+{
+"id":421,
+      "name_category": "ANIME",
+"title":"Anime421",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime421.jpg"
+    }
+,
+{
+"id":422,
+      "name_category": "ANIME",
+"title":"Anime422",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime422.jpg"
+    }
+,
+{
+"id":423,
+      "name_category": "ANIME",
+"title":"Anime423",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime423.jpg"
+    }
+,
+{
+"id":424,
+      "name_category": "ANIME",
+"title":"Anime424",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime424.jpg"
+    }
+,
+{
+"id":425,
+      "name_category": "ANIME",
+"title":"Anime425",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime425.jpg"
+    }
+,
+{
+"id":426,
+      "name_category": "ANIME",
+"title":"Anime426",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime426.jpg"
+    }
+,
+{
+"id":427,
+      "name_category": "ANIME",
+"title":"Anime427",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime427.jpg"
+    }
+,
+{
+"id":428,
+      "name_category": "ANIME",
+"title":"Anime428",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime428.jpg"
+    }
+,
+{
+"id":429,
+      "name_category": "ANIME",
+"title":"Anime429",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime429.jpg"
+    }
+,
+{
+"id":430,
+      "name_category": "ANIME",
+"title":"Anime430",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime430.jpg"
+    }
+,
+{
+"id":431,
+      "name_category": "ANIME",
+"title":"Anime431",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime431.jpg"
+    }
+,
+{
+"id":432,
+      "name_category": "ANIME",
+"title":"Anime432",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime432.jpg"
+    }
+,
+{
+"id":433,
+      "name_category": "ANIME",
+"title":"Anime433",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime433.jpg"
+    }
+,
+{
+"id":434,
+      "name_category": "ANIME",
+"title":"Anime434",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime434.jpg"
+    }
+,
+{
+"id":435,
+      "name_category": "ANIME",
+"title":"Anime435",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime435.jpg"
+    }
+,
+{
+"id":436,
+      "name_category": "ANIME",
+"title":"Anime436",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime436.jpg"
+    }
+,
+{
+"id":437,
+      "name_category": "ANIME",
+"title":"Anime437",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime437.jpg"
+    }
+,
+{
+"id":438,
+      "name_category": "ANIME",
+"title":"Anime438",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime438.jpg"
+    }
+,
+{
+"id":439,
+      "name_category": "ANIME",
+"title":"Anime439",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime439.jpg"
+    }
+,
+{
+"id":440,
+      "name_category": "ANIME",
+"title":"Anime440",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime440.jpg"
+    }
+,
+{
+"id":441,
+      "name_category": "ANIME",
+"title":"Anime441",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime441.jpg"
+    }
+,
+{
+"id":442,
+      "name_category": "ANIME",
+"title":"Anime442",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime442.jpg"
+    }
+,
+{
+"id":443,
+      "name_category": "ANIME",
+"title":"Anime443",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime443.jpg"
+    }
+,
+{
+"id":444,
+      "name_category": "ANIME",
+"title":"Anime444",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime444.jpg"
+    }
+,
+{
+"id":445,
+      "name_category": "ANIME",
+"title":"Anime445",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime445.jpg"
+    }
+,
+{
+"id":446,
+      "name_category": "ANIME",
+"title":"Anime446",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime446.jpg"
+    }
+,
+{
+"id":447,
+      "name_category": "ANIME",
+"title":"Anime447",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime447.jpg"
+    }
+,
+{
+"id":448,
+      "name_category": "ANIME",
+"title":"Anime448",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime448.jpg"
+    }
+,
+{
+"id":449,
+      "name_category": "ANIME",
+"title":"Anime449",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime449.jpg"
+    }
+,
+{
+"id":450,
+      "name_category": "ANIME",
+"title":"Anime450",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime450.jpg"
+    }
+,
+{
+"id":451,
+      "name_category": "ANIME",
+"title":"Anime451",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime451.jpg"
+    }
+,
+{
+"id":452,
+      "name_category": "ANIME",
+"title":"Anime452",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime452.jpg"
+    }
+,
+{
+"id":453,
+      "name_category": "ANIME",
+"title":"Anime453",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime453.jpg"
+    }
+,
+{
+"id":454,
+      "name_category": "ANIME",
+"title":"Anime454",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime454.jpg"
+    }
+,
+{
+"id":455,
+      "name_category": "ANIME",
+"title":"Anime455",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime455.jpg"
+    }
+,
+{
+"id":456,
+      "name_category": "ANIME",
+"title":"Anime456",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime456.jpg"
+    }
+,
+{
+"id":457,
+      "name_category": "ANIME",
+"title":"Anime457",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime457.jpg"
+    }
+,
+{
+"id":458,
+      "name_category": "ANIME",
+"title":"Anime458",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime458.jpg"
+    }
+,
+{
+"id":459,
+      "name_category": "ANIME",
+"title":"Anime459",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime459.jpg"
+    }
+,
+{
+"id":460,
+      "name_category": "ANIME",
+"title":"Anime460",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime460.jpg"
+    }
+,
+{
+"id":461,
+      "name_category": "ANIME",
+"title":"Anime461",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime461.jpg"
+    }
+,
+{
+"id":462,
+      "name_category": "ANIME",
+"title":"Anime462",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime462.jpg"
+    }
+,
+{
+"id":463,
+      "name_category": "ANIME",
+"title":"Anime463",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime463.jpg"
+    }
+,
+{
+"id":464,
+      "name_category": "ANIME",
+"title":"Anime464",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime464.jpg"
+    }
+,
+{
+"id":465,
+      "name_category": "ANIME",
+"title":"Anime465",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime465.jpg"
+    }
+,
+{
+"id":466,
+      "name_category": "ANIME",
+"title":"Anime466",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime466.jpg"
+    }
+,
+{
+"id":467,
+      "name_category": "ANIME",
+"title":"Anime467",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime467.jpg"
+    }
+,
+{
+"id":468,
+      "name_category": "ANIME",
+"title":"Anime468",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime468.jpg"
+    }
+,
+{
+"id":469,
+      "name_category": "ANIME",
+"title":"Anime469",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime469.jpg"
+    }
+,
+{
+"id":470,
+      "name_category": "ANIME",
+"title":"Anime470",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime470.jpg"
+    }
+,
+{
+"id":471,
+      "name_category": "ANIME",
+"title":"Anime471",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime471.jpg"
+    }
+,
+{
+"id":472,
+      "name_category": "ANIME",
+"title":"Anime472",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime472.jpg"
+    }
+,
+{
+"id":473,
+      "name_category": "ANIME",
+"title":"Anime473",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime473.jpg"
+    }
+,
+{
+"id":474,
+      "name_category": "ANIME",
+"title":"Anime474",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime474.jpg"
+    }
+,
+{
+"id":475,
+      "name_category": "ANIME",
+"title":"Anime475",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime475.jpg"
+    }
+,
+{
+"id":476,
+      "name_category": "ANIME",
+"title":"Anime476",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime476.jpg"
+    }
+,
+{
+"id":477,
+      "name_category": "ANIME",
+"title":"Anime477",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime477.jpg"
+    }
+,
+{
+"id":478,
+      "name_category": "ANIME",
+"title":"Anime478",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime478.jpg"
+    }
+,
+{
+"id":479,
+      "name_category": "ANIME",
+"title":"Anime479",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime479.jpg"
+    }
+,
+{
+"id":480,
+      "name_category": "ANIME",
+"title":"Anime480",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime480.jpg"
+    }
+,
+{
+"id":481,
+      "name_category": "ANIME",
+"title":"Anime481",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime481.jpg"
+    }
+,
+{
+"id":482,
+      "name_category": "ANIME",
+"title":"Anime482",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime482.jpg"
+    }
+,
+{
+"id":483,
+      "name_category": "ANIME",
+"title":"Anime483",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime483.jpg"
+    }
+,
+{
+"id":484,
+      "name_category": "ANIME",
+"title":"Anime484",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime484.jpg"
+    }
+,
+{
+"id":485,
+      "name_category": "ANIME",
+"title":"Anime485",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime485.jpg"
+    }
+,
+{
+"id":486,
+      "name_category": "ANIME",
+"title":"Anime486",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime486.jpg"
+    }
+,
+{
+"id":487,
+      "name_category": "ANIME",
+"title":"Anime487",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime487.jpg"
+    }
+,
+{
+"id":488,
+      "name_category": "ANIME",
+"title":"Anime488",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime488.jpg"
+    }
+,
+{
+"id":489,
+      "name_category": "ANIME",
+"title":"Anime489",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime489.jpg"
+    }
+,
+{
+"id":490,
+      "name_category": "ANIME",
+"title":"Anime490",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime490.jpg"
+    }
+,
+{
+"id":491,
+      "name_category": "ANIME",
+"title":"Anime491",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime491.jpg"
+    }
+,
+{
+"id":492,
+      "name_category": "ANIME",
+"title":"Anime492",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime492.jpg"
+    }
+,
+{
+"id":493,
+      "name_category": "ANIME",
+"title":"Anime493",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime493.jpg"
+    }
+,
+{
+"id":494,
+      "name_category": "ANIME",
+"title":"Anime494",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime494.jpg"
+    }
+,
+{
+"id":495,
+      "name_category": "ANIME",
+"title":"Anime495",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime495.jpg"
+    }
+,
+{
+"id":496,
+      "name_category": "ANIME",
+"title":"Anime496",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime496.jpg"
+    }
+,
+{
+"id":497,
+      "name_category": "ANIME",
+"title":"Anime497",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime497.jpg"
+    }
+,
+{
+"id":498,
+      "name_category": "ANIME",
+"title":"Anime498",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime498.jpg"
+    }
+,
+{
+"id":499,
+      "name_category": "ANIME",
+"title":"Anime499",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime499.jpg"
+    }
+,
+{
+"id":500,
+      "name_category": "ANIME",
+"title":"Anime500",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime500.jpg"
+    }
+,
+{
+"id":501,
+      "name_category": "ANIME",
+"title":"Anime501",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime501.jpg"
+    }
+,
+{
+"id":502,
+      "name_category": "ANIME",
+"title":"Anime502",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime502.jpg"
+    }
+,
+{
+"id":503,
+      "name_category": "ANIME",
+"title":"Anime503",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime503.jpg"
+    }
+,
+{
+"id":504,
+      "name_category": "ANIME",
+"title":"Anime504",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime504.jpg"
+    }
+,
+{
+"id":505,
+      "name_category": "ANIME",
+"title":"Anime505",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime505.jpg"
+    }
+,
+{
+"id":506,
+      "name_category": "ANIME",
+"title":"Anime506",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime506.jpg"
+    }
+,
+{
+"id":507,
+      "name_category": "ANIME",
+"title":"Anime507",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime507.jpg"
+    }
+,
+{
+"id":508,
+      "name_category": "ANIME",
+"title":"Anime508",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime508.jpg"
+    }
+,
+{
+"id":509,
+      "name_category": "ANIME",
+"title":"Anime509",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime509.jpg"
+    }
+,
+{
+"id":510,
+      "name_category": "ANIME",
+"title":"Anime510",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime510.jpg"
+    }
+,
+{
+"id":511,
+      "name_category": "ANIME",
+"title":"Anime511",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime511.jpg"
+    }
+,
+{
+"id":512,
+      "name_category": "ANIME",
+"title":"Anime512",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime512.jpg"
+    }
+,
+{
+"id":513,
+      "name_category": "ANIME",
+"title":"Anime513",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime513.jpg"
+    }
+,
+{
+"id":514,
+      "name_category": "ANIME",
+"title":"Anime514",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime514.jpg"
+    }
+,
+{
+"id":515,
+      "name_category": "ANIME",
+"title":"Anime515",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime515.jpg"
+    }
+,
+{
+"id":516,
+      "name_category": "ANIME",
+"title":"Anime516",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime516.jpg"
+    }
+,
+{
+"id":517,
+      "name_category": "ANIME",
+"title":"Anime517",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime517.jpg"
+    }
+,
+{
+"id":518,
+      "name_category": "ANIME",
+"title":"Anime518",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime518.jpg"
+    }
+,
+{
+"id":519,
+      "name_category": "ANIME",
+"title":"Anime519",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime519.jpg"
+    }
+,
+{
+"id":520,
+      "name_category": "ANIME",
+"title":"Anime520",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime520.jpg"
+    }
+,
+{
+"id":521,
+      "name_category": "ANIME",
+"title":"Anime521",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime521.jpg"
+    }
+,
+{
+"id":522,
+      "name_category": "ANIME",
+"title":"Anime522",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime522.jpg"
+    }
+,
+{
+"id":523,
+      "name_category": "ANIME",
+"title":"Anime523",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime523.jpg"
+    }
+,
+{
+"id":524,
+      "name_category": "ANIME",
+"title":"Anime524",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime524.jpg"
+    }
+,
+{
+"id":525,
+      "name_category": "ANIME",
+"title":"Anime525",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime525.jpg"
+    }
+,
+{
+"id":526,
+      "name_category": "ANIME",
+"title":"Anime526",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime526.jpg"
+    }
+,
+{
+"id":527,
+      "name_category": "ANIME",
+"title":"Anime527",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime527.jpg"
+    }
+,
+{
+"id":528,
+      "name_category": "ANIME",
+"title":"Anime528",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime528.jpg"
+    }
+,
+{
+"id":529,
+      "name_category": "ANIME",
+"title":"Anime529",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime529.jpg"
+    }
+,
+{
+"id":530,
+      "name_category": "ANIME",
+"title":"Anime530",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime530.jpg"
+    }
+,
+{
+"id":531,
+      "name_category": "ANIME",
+"title":"Anime531",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime531.jpg"
+    }
+,
+{
+"id":532,
+      "name_category": "ANIME",
+"title":"Anime532",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime532.jpg"
+    }
+,
+{
+"id":533,
+      "name_category": "ANIME",
+"title":"Anime533",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime533.jpg"
+    }
+,
+{
+"id":534,
+      "name_category": "ANIME",
+"title":"Anime534",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime534.jpg"
+    }
+,
+{
+"id":535,
+      "name_category": "ANIME",
+"title":"Anime535",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime535.jpg"
+    }
+,
+{
+"id":536,
+      "name_category": "ANIME",
+"title":"Anime536",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime536.jpg"
+    }
+,
+{
+"id":537,
+      "name_category": "ANIME",
+"title":"Anime537",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime537.jpg"
+    }
+,
+{
+"id":538,
+      "name_category": "ANIME",
+"title":"Anime538",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime538.jpg"
+    }
+,
+{
+"id":539,
+      "name_category": "ANIME",
+"title":"Anime539",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime539.jpg"
+    }
+,
+{
+"id":540,
+      "name_category": "ANIME",
+"title":"Anime540",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime540.jpg"
+    }
+,
+{
+"id":541,
+      "name_category": "ANIME",
+"title":"Anime541",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime541.jpg"
+    }
+,
+{
+"id":542,
+      "name_category": "ANIME",
+"title":"Anime542",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime542.jpg"
+    }
+,
+{
+"id":543,
+      "name_category": "ANIME",
+"title":"Anime543",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime543.jpg"
+    }
+,
+{
+"id":544,
+      "name_category": "ANIME",
+"title":"Anime544",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime544.jpg"
+    }
+,
+{
+"id":545,
+      "name_category": "ANIME",
+"title":"Anime545",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime545.jpg"
+    }
+,
+{
+"id":546,
+      "name_category": "ANIME",
+"title":"Anime546",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime546.jpg"
+    }
+,
+{
+"id":547,
+      "name_category": "ANIME",
+"title":"Anime547",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime547.jpg"
+    }
+,
+{
+"id":548,
+      "name_category": "ANIME",
+"title":"Anime548",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime548.jpg"
+    }
+,
+{
+"id":549,
+      "name_category": "ANIME",
+"title":"Anime549",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime549.jpg"
+    }
+,
+{
+"id":550,
+      "name_category": "ANIME",
+"title":"Anime550",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime550.jpg"
+    }
+,
+{
+"id":551,
+      "name_category": "ANIME",
+"title":"Anime551",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime551.jpg"
+    }
+,
+{
+"id":552,
+      "name_category": "ANIME",
+"title":"Anime552",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime552.jpg"
+    }
+,
+{
+"id":553,
+      "name_category": "ANIME",
+"title":"Anime553",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime553.jpg"
+    }
+,
+{
+"id":554,
+      "name_category": "ANIME",
+"title":"Anime554",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime554.jpg"
+    }
+,
+{
+"id":555,
+      "name_category": "ANIME",
+"title":"Anime555",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime555.jpg"
+    }
+,
+{
+"id":556,
+      "name_category": "ANIME",
+"title":"Anime556",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime556.jpg"
+    }
+,
+{
+"id":557,
+      "name_category": "ANIME",
+"title":"Anime557",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime557.jpg"
+    }
+,
+{
+"id":558,
+      "name_category": "ANIME",
+"title":"Anime558",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime558.jpg"
+    }
+,
+{
+"id":559,
+      "name_category": "ANIME",
+"title":"Anime559",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime559.jpg"
+    }
+,
+{
+"id":560,
+      "name_category": "ANIME",
+"title":"Anime560",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime560.jpg"
+    }
+,
+{
+"id":561,
+      "name_category": "ANIME",
+"title":"Anime561",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime561.jpg"
+    }
+,
+{
+"id":562,
+      "name_category": "ANIME",
+"title":"Anime562",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime562.jpg"
+    }
+,
+{
+"id":563,
+      "name_category": "ANIME",
+"title":"Anime563",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime563.jpg"
+    }
+,
+{
+"id":564,
+      "name_category": "ANIME",
+"title":"Anime564",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime564.jpg"
+    }
+,
+{
+"id":565,
+      "name_category": "ANIME",
+"title":"Anime565",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime565.jpg"
+    }
+,
+{
+"id":566,
+      "name_category": "ANIME",
+"title":"Anime566",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime566.jpg"
+    }
+,
+{
+"id":567,
+      "name_category": "ANIME",
+"title":"Anime567",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime567.jpg"
+    }
+,
+{
+"id":568,
+      "name_category": "ANIME",
+"title":"Anime568",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime568.jpg"
+    }
+,
+{
+"id":569,
+      "name_category": "ANIME",
+"title":"Anime569",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime569.jpg"
+    }
+,
+{
+"id":570,
+      "name_category": "ANIME",
+"title":"Anime570",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime570.jpg"
+    }
+,
+{
+"id":571,
+      "name_category": "ANIME",
+"title":"Anime571",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime571.jpg"
+    }
+,
+{
+"id":572,
+      "name_category": "ANIME",
+"title":"Anime572",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime572.jpg"
+    }
+,
+{
+"id":573,
+      "name_category": "ANIME",
+"title":"Anime573",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime573.jpg"
+    }
+,
+{
+"id":574,
+      "name_category": "ANIME",
+"title":"Anime574",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime574.jpg"
+    }
+,
+{
+"id":575,
+      "name_category": "ANIME",
+"title":"Anime575",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime575.jpg"
+    }
+,
+{
+"id":576,
+      "name_category": "ANIME",
+"title":"Anime576",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime576.jpg"
+    }
+,
+{
+"id":577,
+      "name_category": "ANIME",
+"title":"Anime577",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime577.jpg"
+    }
+,
+{
+"id":578,
+      "name_category": "ANIME",
+"title":"Anime578",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime578.jpg"
+    }
+,
+{
+"id":579,
+      "name_category": "ANIME",
+"title":"Anime579",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime579.jpg"
+    }
+,
+{
+"id":580,
+      "name_category": "ANIME",
+"title":"Anime580",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime580.jpg"
+    }
+,
+{
+"id":581,
+      "name_category": "ANIME",
+"title":"Anime581",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime581.jpg"
+    }
+,
+{
+"id":582,
+      "name_category": "ANIME",
+"title":"Anime582",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime582.jpg"
+    }
+,
+{
+"id":583,
+      "name_category": "ANIME",
+"title":"Anime583",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime583.jpg"
+    }
+,
+{
+"id":584,
+      "name_category": "ANIME",
+"title":"Anime584",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime584.jpg"
+    }
+,
+{
+"id":585,
+      "name_category": "ANIME",
+"title":"Anime585",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime585.jpg"
+    }
+,
+{
+"id":586,
+      "name_category": "ANIME",
+"title":"Anime586",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime586.jpg"
+    }
+,
+{
+"id":587,
+      "name_category": "ANIME",
+"title":"Anime587",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime587.jpg"
+    }
+,
+{
+"id":588,
+      "name_category": "ANIME",
+"title":"Anime588",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime588.jpg"
+    }
+,
+{
+"id":589,
+      "name_category": "ANIME",
+"title":"Anime589",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime589.jpg"
+    }
+,
+{
+"id":590,
+      "name_category": "ANIME",
+"title":"Anime590",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime590.jpg"
+    }
+,
+{
+"id":591,
+      "name_category": "ANIME",
+"title":"Anime591",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime591.jpg"
+    }
+,
+{
+"id":592,
+      "name_category": "ANIME",
+"title":"Anime592",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime592.jpg"
+    }
+,
+{
+"id":593,
+      "name_category": "ANIME",
+"title":"Anime593",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime593.jpg"
+    }
+,
+{
+"id":594,
+      "name_category": "ANIME",
+"title":"Anime594",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime594.jpg"
+    }
+,
+{
+"id":595,
+      "name_category": "ANIME",
+"title":"Anime595",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime595.jpg"
+    }
+,
+{
+"id":596,
+      "name_category": "ANIME",
+"title":"Anime596",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime596.jpg"
+    }
+,
+{
+"id":597,
+      "name_category": "ANIME",
+"title":"Anime597",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime597.jpg"
+    }
+,
+{
+"id":598,
+      "name_category": "ANIME",
+"title":"Anime598",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime598.jpg"
+    }
+,
+{
+"id":599,
+      "name_category": "ANIME",
+"title":"Anime599",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime599.jpg"
+    }
+,
+{
+"id":600,
+      "name_category": "ANIME",
+"title":"Anime600",
+"image":"https://raw.githubusercontent.com/lanangyudis11/huaweiapp/main/Anime600.jpg"
+    }
 
   ]
 }
